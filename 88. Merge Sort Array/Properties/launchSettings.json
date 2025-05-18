@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "88. Merge Sort Array": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
