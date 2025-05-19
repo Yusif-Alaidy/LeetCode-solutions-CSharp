@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Downloads\leetcode-solutions\1945. Sum of Digits of String After Convert\bin\Debug\net9.0\1945. Sum of Digits of String After Convert.exe
+C:\Users\Lenovo\Downloads\leetcode-solutions\1945. Sum of Digits of String After Convert\bin\Debug\net9.0\1945. Sum of Digits of String After Convert.deps.json
+C:\Users\Lenovo\Downloads\leetcode-solutions\1945. Sum of Digits of String After Convert\bin\Debug\net9.0\1945. Sum of Digits of String After Convert.runtimeconfig.json
+C:\Users\Lenovo\Downloads\leetcode-solutions\1945. Sum of Digits of String After Convert\bin\Debug\net9.0\1945. Sum of Digits of String After Convert.dll
+C:\Users\Lenovo\Downloads\leetcode-solutions\1945. Sum of Digits of String After Convert\bin\Debug\net9.0\1945. Sum of Digits of String After Convert.pdb
+C:\Users\Lenovo\Downloads\leetcode-solutions\1945. Sum of Digits of String After Convert\obj\Debug\net9.0\1945. Sum of Digits of String After Convert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\leetcode-solutions\1945. Sum of Digits of String After Convert\obj\Debug\net9.0\1945. Sum of Digits of String After Convert.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\leetcode-solutions\1945. Sum of Digits of String After Convert\obj\Debug\net9.0\1945. Sum of Digits of String After Convert.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\leetcode-solutions\1945. Sum of Digits of String After Convert\obj\Debug\net9.0\1945. Sum of Digits of String After Convert.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\leetcode-solutions\1945. Sum of Digits of String After Convert\obj\Debug\net9.0\1945. Sum of Digits of String After Convert.sourcelink.json
+C:\Users\Lenovo\Downloads\leetcode-solutions\1945. Sum of Digits of String After Convert\obj\Debug\net9.0\1945. Sum of Digits of String After Convert.dll
+C:\Users\Lenovo\Downloads\leetcode-solutions\1945. Sum of Digits of String After Convert\obj\Debug\net9.0\refint\1945. Sum of Digits of String After Convert.dll
+C:\Users\Lenovo\Downloads\leetcode-solutions\1945. Sum of Digits of String After Convert\obj\Debug\net9.0\1945. Sum of Digits of String After Convert.pdb
+C:\Users\Lenovo\Downloads\leetcode-solutions\1945. Sum of Digits of String After Convert\obj\Debug\net9.0\1945. Sum of Digits of String After Convert.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\leetcode-solutions\1945. Sum of Digits of String After Convert\obj\Debug\net9.0\ref\1945. Sum of Digits of String After Convert.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EfC1Jdu3GM0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Downloads\\leetcode-solutions\\1945. Sum of Digits of String After Convert\\1945. Sum of Digits of String After Convert.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

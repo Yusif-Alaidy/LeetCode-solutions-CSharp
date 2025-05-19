@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\leetcode-solutions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1747918B-5ECD-4372-853C-454119E490D1}|88. Merge Sort Array\\88. Merge Sort Array.csproj|c:\\users\\lenovo\\downloads\\leetcode-solutions\\88. merge sort array\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1747918B-5ECD-4372-853C-454119E490D1}|88. Merge Sort Array\\88. Merge Sort Array.csproj|solutionrelative:88. merge sort array\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0A702C7-9E78-449B-B8F0-5A6F37FA3807}|1945. Sum of Digits of String After Convert\\1945. Sum of Digits of String After Convert.csproj|c:\\users\\lenovo\\downloads\\leetcode-solutions\\1945. sum of digits of string after convert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A702C7-9E78-449B-B8F0-5A6F37FA3807}|1945. Sum of Digits of String After Convert\\1945. Sum of Digits of String After Convert.csproj|solutionrelative:1945. sum of digits of string after convert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1747918B-5ECD-4372-853C-454119E490D1}|88. Merge Sort Array\\88. Merge Sort Array.csproj|c:\\users\\lenovo\\downloads\\leetcode-solutions\\88. merge sort array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1747918B-5ECD-4372-853C-454119E490D1}|88. Merge Sort Array\\88. Merge Sort Array.csproj|solutionrelative:88. merge sort array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1747918B-5ECD-4372-853C-454119E490D1}|88. Merge Sort Array\\88. Merge Sort Array.csproj|c:\\users\\lenovo\\downloads\\leetcode-solutions\\88. merge sort array\\printarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1747918B-5ECD-4372-853C-454119E490D1}|88. Merge Sort Array\\88. Merge Sort Array.csproj|solutionrelative:88. merge sort array\\printarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PrintArray.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\leetcode-solutions\\88. Merge Sort Array\\PrintArray.cs",
-              "RelativeDocumentMoniker": "88. Merge Sort Array\\PrintArray.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\leetcode-solutions\\88. Merge Sort Array\\PrintArray.cs",
-              "RelativeToolTip": "88. Merge Sort Array\\PrintArray.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBAAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T20:21:11.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MergeSort.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\leetcode-solutions\\88. Merge Sort Array\\MergeSort.cs",
-              "RelativeDocumentMoniker": "88. Merge Sort Array\\MergeSort.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\leetcode-solutions\\88. Merge Sort Array\\MergeSort.cs",
-              "RelativeToolTip": "88. Merge Sort Array\\MergeSort.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAoAAAA+AAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\leetcode-solutions\\1945. Sum of Digits of String After Convert\\Program.cs",
+              "RelativeDocumentMoniker": "1945. Sum of Digits of String After Convert\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\leetcode-solutions\\1945. Sum of Digits of String After Convert\\Program.cs",
+              "RelativeToolTip": "1945. Sum of Digits of String After Convert\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T18:19:42.924Z",
+              "WhenOpened": "2025-05-19T12:47:38.67Z",
               "EditorCaption": ""
             },
             {
@@ -62,7 +45,7 @@
               "RelativeDocumentMoniker": "88. Merge Sort Array\\Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Downloads\\leetcode-solutions\\88. Merge Sort Array\\Program.cs",
               "RelativeToolTip": "88. Merge Sort Array\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T18:03:13.521Z",
               "EditorCaption": ""

@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88. Merge Sort Array", "88. Merge Sort Array\88. Merge Sort Array.csproj", "{1747918B-5ECD-4372-853C-454119E490D1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorithm", "Algorithm", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1945. Sum of Digits of String After Convert", "1945. Sum of Digits of String After Convert\1945. Sum of Digits of String After Convert.csproj", "{B0A702C7-9E78-449B-B8F0-5A6F37FA3807}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "String", "String", "{F6401D65-6F33-4CC5-89B5-674A5C84C907}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{1747918B-5ECD-4372-853C-454119E490D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1747918B-5ECD-4372-853C-454119E490D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1747918B-5ECD-4372-853C-454119E490D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0A702C7-9E78-449B-B8F0-5A6F37FA3807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0A702C7-9E78-449B-B8F0-5A6F37FA3807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0A702C7-9E78-449B-B8F0-5A6F37FA3807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0A702C7-9E78-449B-B8F0-5A6F37FA3807}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{1747918B-5ECD-4372-853C-454119E490D1} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{B0A702C7-9E78-449B-B8F0-5A6F37FA3807} = {F6401D65-6F33-4CC5-89B5-674A5C84C907}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3CBDF99C-41EE-4DC5-AEB3-1089F3901F55}

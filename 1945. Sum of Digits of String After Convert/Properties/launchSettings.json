@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "1945. Sum of Digits of String After Convert": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
