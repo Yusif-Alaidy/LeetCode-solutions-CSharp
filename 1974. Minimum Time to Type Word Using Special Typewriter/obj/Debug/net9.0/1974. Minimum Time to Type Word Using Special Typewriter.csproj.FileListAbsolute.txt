@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Downloads\leetcode-solutions\1974. Minimum Time to Type Word Using Special Typewriter\bin\Debug\net9.0\1974. Minimum Time to Type Word Using Special Typewriter.exe
+C:\Users\Lenovo\Downloads\leetcode-solutions\1974. Minimum Time to Type Word Using Special Typewriter\bin\Debug\net9.0\1974. Minimum Time to Type Word Using Special Typewriter.deps.json
+C:\Users\Lenovo\Downloads\leetcode-solutions\1974. Minimum Time to Type Word Using Special Typewriter\bin\Debug\net9.0\1974. Minimum Time to Type Word Using Special Typewriter.runtimeconfig.json
+C:\Users\Lenovo\Downloads\leetcode-solutions\1974. Minimum Time to Type Word Using Special Typewriter\bin\Debug\net9.0\1974. Minimum Time to Type Word Using Special Typewriter.dll
+C:\Users\Lenovo\Downloads\leetcode-solutions\1974. Minimum Time to Type Word Using Special Typewriter\bin\Debug\net9.0\1974. Minimum Time to Type Word Using Special Typewriter.pdb
+C:\Users\Lenovo\Downloads\leetcode-solutions\1974. Minimum Time to Type Word Using Special Typewriter\obj\Debug\net9.0\1974. Minimum Time to Type Word Using Special Typewriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\leetcode-solutions\1974. Minimum Time to Type Word Using Special Typewriter\obj\Debug\net9.0\1974. Minimum Time to Type Word Using Special Typewriter.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\leetcode-solutions\1974. Minimum Time to Type Word Using Special Typewriter\obj\Debug\net9.0\1974. Minimum Time to Type Word Using Special Typewriter.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\leetcode-solutions\1974. Minimum Time to Type Word Using Special Typewriter\obj\Debug\net9.0\1974. Minimum Time to Type Word Using Special Typewriter.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\leetcode-solutions\1974. Minimum Time to Type Word Using Special Typewriter\obj\Debug\net9.0\1974. Minimum Time to Type Word Using Special Typewriter.sourcelink.json
+C:\Users\Lenovo\Downloads\leetcode-solutions\1974. Minimum Time to Type Word Using Special Typewriter\obj\Debug\net9.0\1974. Minimum Time to Type Word Using Special Typewriter.dll
+C:\Users\Lenovo\Downloads\leetcode-solutions\1974. Minimum Time to Type Word Using Special Typewriter\obj\Debug\net9.0\refint\1974. Minimum Time to Type Word Using Special Typewriter.dll
+C:\Users\Lenovo\Downloads\leetcode-solutions\1974. Minimum Time to Type Word Using Special Typewriter\obj\Debug\net9.0\1974. Minimum Time to Type Word Using Special Typewriter.pdb
+C:\Users\Lenovo\Downloads\leetcode-solutions\1974. Minimum Time to Type Word Using Special Typewriter\obj\Debug\net9.0\1974. Minimum Time to Type Word Using Special Typewriter.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\leetcode-solutions\1974. Minimum Time to Type Word Using Special Typewriter\obj\Debug\net9.0\ref\1974. Minimum Time to Type Word Using Special Typewriter.dll

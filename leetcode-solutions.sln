@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1945. Sum of Digits of Stri
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "String", "String", "{F6401D65-6F33-4CC5-89B5-674A5C84C907}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1974. Minimum Time to Type Word Using Special Typewriter", "1974. Minimum Time to Type Word Using Special Typewriter\1974. Minimum Time to Type Word Using Special Typewriter.csproj", "{DC13169C-9A3A-4D41-8543-4D4EFEBD887F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{B0A702C7-9E78-449B-B8F0-5A6F37FA3807}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0A702C7-9E78-449B-B8F0-5A6F37FA3807}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0A702C7-9E78-449B-B8F0-5A6F37FA3807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC13169C-9A3A-4D41-8543-4D4EFEBD887F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC13169C-9A3A-4D41-8543-4D4EFEBD887F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC13169C-9A3A-4D41-8543-4D4EFEBD887F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC13169C-9A3A-4D41-8543-4D4EFEBD887F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{1747918B-5ECD-4372-853C-454119E490D1} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{B0A702C7-9E78-449B-B8F0-5A6F37FA3807} = {F6401D65-6F33-4CC5-89B5-674A5C84C907}
+		{DC13169C-9A3A-4D41-8543-4D4EFEBD887F} = {F6401D65-6F33-4CC5-89B5-674A5C84C907}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3CBDF99C-41EE-4DC5-AEB3-1089F3901F55}

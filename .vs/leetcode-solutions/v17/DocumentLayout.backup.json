@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\leetcode-solutions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0A702C7-9E78-449B-B8F0-5A6F37FA3807}|1945. Sum of Digits of String After Convert\\1945. Sum of Digits of String After Convert.csproj|c:\\users\\lenovo\\downloads\\leetcode-solutions\\1945. sum of digits of string after convert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0A702C7-9E78-449B-B8F0-5A6F37FA3807}|1945. Sum of Digits of String After Convert\\1945. Sum of Digits of String After Convert.csproj|solutionrelative:1945. sum of digits of string after convert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1747918B-5ECD-4372-853C-454119E490D1}|88. Merge Sort Array\\88. Merge Sort Array.csproj|c:\\users\\lenovo\\downloads\\leetcode-solutions\\88. merge sort array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1747918B-5ECD-4372-853C-454119E490D1}|88. Merge Sort Array\\88. Merge Sort Array.csproj|solutionrelative:88. merge sort array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC13169C-9A3A-4D41-8543-4D4EFEBD887F}|1974. Minimum Time to Type Word Using Special Typewriter\\1974. Minimum Time to Type Word Using Special Typewriter.csproj|c:\\users\\lenovo\\downloads\\leetcode-solutions\\1974. minimum time to type word using special typewriter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC13169C-9A3A-4D41-8543-4D4EFEBD887F}|1974. Minimum Time to Type Word Using Special Typewriter\\1974. Minimum Time to Type Word Using Special Typewriter.csproj|solutionrelative:1974. minimum time to type word using special typewriter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\leetcode-solutions\\1945. Sum of Digits of String After Convert\\Program.cs",
-              "RelativeDocumentMoniker": "1945. Sum of Digits of String After Convert\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\leetcode-solutions\\1945. Sum of Digits of String After Convert\\Program.cs",
-              "RelativeToolTip": "1945. Sum of Digits of String After Convert\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\leetcode-solutions\\1974. Minimum Time to Type Word Using Special Typewriter\\Program.cs",
+              "RelativeDocumentMoniker": "1974. Minimum Time to Type Word Using Special Typewriter\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\leetcode-solutions\\1974. Minimum Time to Type Word Using Special Typewriter\\Program.cs",
+              "RelativeToolTip": "1974. Minimum Time to Type Word Using Special Typewriter\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T12:47:38.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\leetcode-solutions\\88. Merge Sort Array\\Program.cs",
-              "RelativeDocumentMoniker": "88. Merge Sort Array\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\leetcode-solutions\\88. Merge Sort Array\\Program.cs",
-              "RelativeToolTip": "88. Merge Sort Array\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAADwvxIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T18:03:13.521Z",
+              "WhenOpened": "2025-05-19T18:25:12.058Z",
               "EditorCaption": ""
             }
           ]
