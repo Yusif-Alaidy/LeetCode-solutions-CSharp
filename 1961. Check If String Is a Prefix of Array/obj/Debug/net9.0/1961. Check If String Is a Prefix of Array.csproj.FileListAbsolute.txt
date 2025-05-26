@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Downloads\leetcode-solutions\1961. Check If String Is a Prefix of Array\bin\Debug\net9.0\1961. Check If String Is a Prefix of Array.exe
+C:\Users\Lenovo\Downloads\leetcode-solutions\1961. Check If String Is a Prefix of Array\bin\Debug\net9.0\1961. Check If String Is a Prefix of Array.deps.json
+C:\Users\Lenovo\Downloads\leetcode-solutions\1961. Check If String Is a Prefix of Array\bin\Debug\net9.0\1961. Check If String Is a Prefix of Array.runtimeconfig.json
+C:\Users\Lenovo\Downloads\leetcode-solutions\1961. Check If String Is a Prefix of Array\bin\Debug\net9.0\1961. Check If String Is a Prefix of Array.dll
+C:\Users\Lenovo\Downloads\leetcode-solutions\1961. Check If String Is a Prefix of Array\bin\Debug\net9.0\1961. Check If String Is a Prefix of Array.pdb
+C:\Users\Lenovo\Downloads\leetcode-solutions\1961. Check If String Is a Prefix of Array\obj\Debug\net9.0\1961. Check If String Is a Prefix of Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\leetcode-solutions\1961. Check If String Is a Prefix of Array\obj\Debug\net9.0\1961. Check If String Is a Prefix of Array.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\leetcode-solutions\1961. Check If String Is a Prefix of Array\obj\Debug\net9.0\1961. Check If String Is a Prefix of Array.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\leetcode-solutions\1961. Check If String Is a Prefix of Array\obj\Debug\net9.0\1961. Check If String Is a Prefix of Array.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\leetcode-solutions\1961. Check If String Is a Prefix of Array\obj\Debug\net9.0\1961. Check If String Is a Prefix of Array.sourcelink.json
+C:\Users\Lenovo\Downloads\leetcode-solutions\1961. Check If String Is a Prefix of Array\obj\Debug\net9.0\1961. Check If String Is a Prefix of Array.dll
+C:\Users\Lenovo\Downloads\leetcode-solutions\1961. Check If String Is a Prefix of Array\obj\Debug\net9.0\refint\1961. Check If String Is a Prefix of Array.dll
+C:\Users\Lenovo\Downloads\leetcode-solutions\1961. Check If String Is a Prefix of Array\obj\Debug\net9.0\1961. Check If String Is a Prefix of Array.pdb
+C:\Users\Lenovo\Downloads\leetcode-solutions\1961. Check If String Is a Prefix of Array\obj\Debug\net9.0\1961. Check If String Is a Prefix of Array.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\leetcode-solutions\1961. Check If String Is a Prefix of Array\obj\Debug\net9.0\ref\1961. Check If String Is a Prefix of Array.dll

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "1961. Check If String Is a Prefix of Array": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
