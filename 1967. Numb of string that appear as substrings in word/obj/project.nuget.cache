@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W755t28xBoE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Downloads\\leetcode-solutions\\1967. Numb of string that appear as substrings in word\\1967. Numb of string that appear as substrings in word.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Downloads\leetcode-solutions\1967. Numb of string that appear as substrings in word\bin\Debug\net9.0\1967. Numb of string that appear as substrings in word.exe
+C:\Users\Lenovo\Downloads\leetcode-solutions\1967. Numb of string that appear as substrings in word\bin\Debug\net9.0\1967. Numb of string that appear as substrings in word.deps.json
+C:\Users\Lenovo\Downloads\leetcode-solutions\1967. Numb of string that appear as substrings in word\bin\Debug\net9.0\1967. Numb of string that appear as substrings in word.runtimeconfig.json
+C:\Users\Lenovo\Downloads\leetcode-solutions\1967. Numb of string that appear as substrings in word\bin\Debug\net9.0\1967. Numb of string that appear as substrings in word.dll
+C:\Users\Lenovo\Downloads\leetcode-solutions\1967. Numb of string that appear as substrings in word\bin\Debug\net9.0\1967. Numb of string that appear as substrings in word.pdb
+C:\Users\Lenovo\Downloads\leetcode-solutions\1967. Numb of string that appear as substrings in word\obj\Debug\net9.0\1967. Numb of string that appear as substrings in word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\leetcode-solutions\1967. Numb of string that appear as substrings in word\obj\Debug\net9.0\1967. Numb of string that appear as substrings in word.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\leetcode-solutions\1967. Numb of string that appear as substrings in word\obj\Debug\net9.0\1967. Numb of string that appear as substrings in word.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\leetcode-solutions\1967. Numb of string that appear as substrings in word\obj\Debug\net9.0\1967. Numb of string that appear as substrings in word.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\leetcode-solutions\1967. Numb of string that appear as substrings in word\obj\Debug\net9.0\1967. Numb of string that appear as substrings in word.sourcelink.json
+C:\Users\Lenovo\Downloads\leetcode-solutions\1967. Numb of string that appear as substrings in word\obj\Debug\net9.0\1967. Numb of string that appear as substrings in word.dll
+C:\Users\Lenovo\Downloads\leetcode-solutions\1967. Numb of string that appear as substrings in word\obj\Debug\net9.0\refint\1967. Numb of string that appear as substrings in word.dll
+C:\Users\Lenovo\Downloads\leetcode-solutions\1967. Numb of string that appear as substrings in word\obj\Debug\net9.0\1967. Numb of string that appear as substrings in word.pdb
+C:\Users\Lenovo\Downloads\leetcode-solutions\1967. Numb of string that appear as substrings in word\obj\Debug\net9.0\1967. Numb of string that appear as substrings in word.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\leetcode-solutions\1967. Numb of string that appear as substrings in word\obj\Debug\net9.0\ref\1967. Numb of string that appear as substrings in word.dll

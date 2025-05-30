@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "1967. Numb of string that appear as substrings in word": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
