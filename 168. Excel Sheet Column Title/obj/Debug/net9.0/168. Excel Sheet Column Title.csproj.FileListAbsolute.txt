@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Downloads\LeetCode-solutions-CSharp\168. Excel Sheet Column Title\obj\Debug\net9.0\168. Excel Sheet Column Title.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\LeetCode-solutions-CSharp\168. Excel Sheet Column Title\obj\Debug\net9.0\168. Excel Sheet Column Title.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\LeetCode-solutions-CSharp\168. Excel Sheet Column Title\obj\Debug\net9.0\168. Excel Sheet Column Title.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\LeetCode-solutions-CSharp\168. Excel Sheet Column Title\obj\Debug\net9.0\168. Excel Sheet Column Title.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\LeetCode-solutions-CSharp\168. Excel Sheet Column Title\obj\Debug\net9.0\168. Excel Sheet Column Title.sourcelink.json
+C:\Users\Lenovo\Downloads\LeetCode-solutions-CSharp\168. Excel Sheet Column Title\bin\Debug\net9.0\168. Excel Sheet Column Title.exe
+C:\Users\Lenovo\Downloads\LeetCode-solutions-CSharp\168. Excel Sheet Column Title\bin\Debug\net9.0\168. Excel Sheet Column Title.deps.json
+C:\Users\Lenovo\Downloads\LeetCode-solutions-CSharp\168. Excel Sheet Column Title\bin\Debug\net9.0\168. Excel Sheet Column Title.runtimeconfig.json
+C:\Users\Lenovo\Downloads\LeetCode-solutions-CSharp\168. Excel Sheet Column Title\bin\Debug\net9.0\168. Excel Sheet Column Title.dll
+C:\Users\Lenovo\Downloads\LeetCode-solutions-CSharp\168. Excel Sheet Column Title\bin\Debug\net9.0\168. Excel Sheet Column Title.pdb
+C:\Users\Lenovo\Downloads\LeetCode-solutions-CSharp\168. Excel Sheet Column Title\obj\Debug\net9.0\168. Excel Sheet Column Title.dll
+C:\Users\Lenovo\Downloads\LeetCode-solutions-CSharp\168. Excel Sheet Column Title\obj\Debug\net9.0\refint\168. Excel Sheet Column Title.dll
+C:\Users\Lenovo\Downloads\LeetCode-solutions-CSharp\168. Excel Sheet Column Title\obj\Debug\net9.0\168. Excel Sheet Column Title.pdb
+C:\Users\Lenovo\Downloads\LeetCode-solutions-CSharp\168. Excel Sheet Column Title\obj\Debug\net9.0\168. Excel Sheet Column Title.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\LeetCode-solutions-CSharp\168. Excel Sheet Column Title\obj\Debug\net9.0\ref\168. Excel Sheet Column Title.dll

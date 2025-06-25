@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8epoKODd56I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Downloads\\LeetCode-solutions-CSharp\\168. Excel Sheet Column Title\\168. Excel Sheet Column Title.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
